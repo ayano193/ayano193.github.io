@@ -1,5 +1,8 @@
-https://1alpaca.github.io/tags/index.html
-https://1alpaca.github.io/2023/04/27/%E6%97%A5%E5%BF%97/
-https://1alpaca.github.io/categories/index.html
-https://1alpaca.github.io/2023/04/27/test-my-site/
-https://1alpaca.github.io/
+https://ayano193.github.io/about/index.html
+https://ayano193.github.io/qa/index.html
+https://ayano193.github.io/works/index.html
+https://ayano193.github.io/tags/index.html
+https://ayano193.github.io/2023/04/27/%E6%97%A5%E5%BF%97/
+https://ayano193.github.io/categories/index.html
+https://ayano193.github.io/2023/04/27/test-my-site/
+https://ayano193.github.io/

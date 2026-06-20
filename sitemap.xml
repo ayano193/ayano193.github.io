@@ -2,7 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://1alpaca.github.io/tags/index.html</loc>
+    <loc>https://ayano193.github.io/about/index.html</loc>
+    
+    <lastmod>2026-06-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ayano193.github.io/qa/index.html</loc>
+    
+    <lastmod>2026-06-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ayano193.github.io/works/index.html</loc>
+    
+    <lastmod>2026-06-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ayano193.github.io/tags/index.html</loc>
     
     <lastmod>2023-06-30</lastmod>
     
@@ -11,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://1alpaca.github.io/2023/04/27/%E6%97%A5%E5%BF%97/</loc>
+    <loc>https://ayano193.github.io/2023/04/27/%E6%97%A5%E5%BF%97/</loc>
     
     <lastmod>2023-06-30</lastmod>
     
@@ -20,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://1alpaca.github.io/categories/index.html</loc>
+    <loc>https://ayano193.github.io/categories/index.html</loc>
     
     <lastmod>2023-06-30</lastmod>
     
@@ -29,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://1alpaca.github.io/2023/04/27/test-my-site/</loc>
+    <loc>https://ayano193.github.io/2023/04/27/test-my-site/</loc>
     
     <lastmod>2023-04-27</lastmod>
     
@@ -39,8 +66,8 @@
   
 
   <url>
-    <loc>https://1alpaca.github.io/</loc>
-    <lastmod>2023-07-25</lastmod>
+    <loc>https://ayano193.github.io/</loc>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
