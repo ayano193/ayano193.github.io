@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>-羊驼安全屋-</title>
+  
+  <subtitle>CAUTION!</subtitle>
+  <link href="https://ayano193.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://ayano193.github.io/"/>
+  <updated>2026-06-20T07:57:20.533Z</updated>
+  <id>https://ayano193.github.io/</id>
+  
+  <author>
+    <name>Alpaca</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://ayano193.github.io/2026/06/20/Hello-World/"/>
+    <id>https://ayano193.github.io/2026/06/20/Hello-World/</id>
+    <published>2026-06-20T08:57:20.000Z</published>
+    <updated>2026-06-20T07:57:20.533Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
