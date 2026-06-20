@@ -4,5 +4,4 @@ https://ayano193.github.io/works/index.html
 https://ayano193.github.io/tags/index.html
 https://ayano193.github.io/2023/04/27/%E6%97%A5%E5%BF%97/
 https://ayano193.github.io/categories/index.html
-https://ayano193.github.io/2023/04/27/test-my-site/
 https://ayano193.github.io/
